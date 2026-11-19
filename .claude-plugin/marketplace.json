@@ -1,0 +1,19 @@
+{
+  "name": "ashtonvossai-windows",
+  "owner": {
+    "name": "Ashton Voss AI"
+  },
+  "description": "Free Claude Code skills from Ashton Voss AI.",
+  "plugins": [
+    {
+      "name": "gta6-clipper-windows",
+      "source": "./",
+      "description": "Clip GTA 6 streams into ready-to-post vertical clips, from a finished stream or live. Windows 10/11.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ashton Voss AI"
+      },
+      "category": "productivity"
+    }
+  ]
+}

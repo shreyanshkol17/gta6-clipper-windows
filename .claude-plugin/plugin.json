@@ -1,0 +1,21 @@
+{
+  "name": "gta6-clipper-windows",
+  "version": "1.0.0",
+  "description": "Turn GTA 6 streams into ready-to-post vertical clips. Two skills: clip a finished stream, or clip a stream while it's live. Facecam on top, gameplay below, hook title, word-by-word captions, post caption and hashtags. Windows 10/11.",
+  "author": {
+    "name": "Ashton Voss AI"
+  },
+  "homepage": "https://github.com/vossashtonai/gta6-clipper-windows",
+  "repository": "https://github.com/vossashtonai/gta6-clipper-windows",
+  "license": "MIT",
+  "keywords": [
+    "gta6",
+    "clipping",
+    "twitch",
+    "youtube",
+    "kick",
+    "shorts",
+    "video",
+    "windows"
+  ]
+}
